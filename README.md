@@ -5,6 +5,7 @@
 1.Creat scrapy project:scrapy startproject XXX
 2.Copy the files into new project
 3.Turn to XXX file and cmd:scrapy crawl start.py
+	
 	Some instructions:
 demo/: 该项目的python模块。之后您将在此加入代码。 
 demo/items.py: 项目中的item文件. Item 是保存爬取到的数据的容器
